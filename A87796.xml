@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coppy of a letter writ from Serjeant Major Kirle, to a friend in Windsor.</title>
+            <author>Kirle, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87796</idno>
+            <idno type="STC">Wing K653</idno>
+            <idno type="STC">Thomason E246_35</idno>
+            <idno type="STC">ESTC R1286</idno>
+            <idno type="EEBO-CITATION">99859356</idno>
+            <idno type="PROQUEST">99859356</idno>
+            <idno type="VID">158394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158394)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coppy of a letter writ from Serjeant Major Kirle, to a friend in Windsor.</title>
+                  <author>Kirle, Robert.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: R. K., i.e. Robert Kirle.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "1642 March. 6.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military deserters --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:158394:1"/>
+            <!-- PDF PAGE 54 -->
+            <pb n="1" facs="tcp:158394:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 54 -->
+            <head>A COPPY OF A LETTER Writ from Serjeant Major KIRLE, to a friend in <hi>Windſor.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu were pleaſed to command a conſtant account from me, as the onely requitall you would receive for admitting me an Officer in the Parliament Army; and though divers things have come from us, which have been either doubted or contradicted, and ſeeme to have no other credit then the cloſe Committee; yet what I am now about to tell you, ſhall run none of thoſe dangers, but that with a great deale of confidence you may report, both in publique to the Houſe, and in private to my friends that I am now at <hi>Oxford;</hi> nor ſhall your wonder laſt long for by that time I have declared upon what grounds at firſt I undertooke that ſervice, and upon what reaſons I have ſince deſerted it, I ſhall without doubt (where there is charity or reaſon) free my ſelfe from the imputation of di<g ref="char:EOLhyphen"/>ſhonour, and undeceive others that are as I was, ſeduced.</p>
+            <p>About the time theſe diſtempers began here, I returned from ſerving the Swede in <hi>Germany,</hi> and the States in <hi>Holland,</hi> in both which Countries; I can without vanity ſay, I did nothing to the diſhonour of my owne, as this abſence made me ignorant of the condition of the Kingdome; ſo it rendred me more inclinable to receive an imployment from the Parliament: for though neither my youth, nor this profeſſion are curious after the affaires of State; yet ſo common were the grievances in that unhappy concture of time, when I went abroad, that I retain'd the ſame impreſſions in me at my com<g ref="char:EOLhyphen"/>ming home, eſpecially when I ſaw the complaints remaine, but did not know that the cauſes were taken away: thus poſſeſſed with prejudice, it was no hard thing for me to believe, that the pretences of the warre (in themſelves ſo ſpecious) and the imployment therein, to be full of Honour, Juſtice and
+<pb n="2" facs="tcp:158394:2"/>
+               <!-- PDF PAGE 55 -->Piety; and that there needed not the importunity of my neereſt friends, or an argument from the neceſſity their former ſeverity had caſt upon me, nor an invitation from your ſelfe, to ſeeke for the preferment you ſpeedily procured me.</p>
+            <p>How have I behaved my ſelfe, while I was of your minde, and in that ſer<g ref="char:EOLhyphen"/>vice will be beſt judged by thoſe, that know that from a Lievtenant I was ſoon preferred to be Captaine of a Troop rayſed to my hand: and ſhortly after, to be Serjeant Major to the Earle of <hi>Stamfords</hi> Regiment of horſe: what pri<g ref="char:EOLhyphen"/>ſoners I took, what contribution I brought in, what places and Townes I ſe<g ref="char:EOLhyphen"/>cured, appeares by the teſtimony given of me, and the thanks I received from you. It is not therefore <hi>Neceſſity</hi> has made me leave you to goe to the <hi>King,</hi> from whom you have taken not onely his revenues which ſhould give him bread, but the benevolences (as farre as in you lies) of his People that ſhould maintaine his Army. It is not ambition, to forſake a certaine benefit for an uncertaine imployment, and (in juſtice) as doubtfull a pardon: It is not ma<g ref="char:EOLhyphen"/>lice for any particuler neglect or injury, for I muſt confeſſe no man recieved greater kindneſſe from his ſuperiour Officers, or more ample thanks from your ſelves then I hrve done; nocivill humane reſpect, but a perfect diſ<g ref="char:EOLhyphen"/>covery of thoſe falſe lights, that have hithetto miſled me, and the deep appre<g ref="char:EOLhyphen"/>henſion of the horrour which attends the perſevering in ſuch errors.</p>
+            <p>I muſt confeſſe (though you would little thinke it) that Maſter <hi>Sedgwicke</hi> Chaplaine to that Regiment, firſt opened my Eyes, and moved me to that re<g ref="char:EOLhyphen"/>fliction upon my ſelf, which ſet me ſince in the right way; not by his perſwa<g ref="char:EOLhyphen"/>ſions or converſion, (for I can aſſure you, you may ſtill confide in him) but by the ſpirit (not that pretended to of meekneſſe and peace but) of fury and madneſſe; he revealed the miſery of this warre, and in his inſpired rage, brake the ſhell (Religion, ſafety of the King, Liberty and Propriety) and ſhewed us the kernell (Atheiſme, Anarchy, arbytrary government and confu<g ref="char:EOLhyphen"/>ſion) what was meant elſe by his ſawcy and impertinent talking to God Al<g ref="char:EOLhyphen"/>mighty, whom he ſeemed rather to command then intreat? what was meant elſe by his traducing the King, and curſing him, while he ſeemed to pray for him; and preſently with a tone as gentle as his language magnifie the Wor<g ref="char:EOLhyphen"/>thies, the Eſtates aſſembled in Parliament; what was meant elſe by incoura<g ref="char:EOLhyphen"/>ging violence, and ſharing in things plundered? not had one man given me a juſt prejudice of the cauſe, but that I ſaw the whole lump of theſe pſeu<g ref="char:EOLhyphen"/>do-clergy, ſeaſoned with the ſame leaven, who hate (and ſo inſtruct the people) an innocent ceremony, but thirſt after blood, who abhorre learning and Biſhops, but adore ignorance and deviſion, who while they are ſevere (and therein they doe well) againſt drunkenneſſe and adultery, and they make robbery rebellion ſacriledge and murder, become vertues, becauſe they are in order to effect their deſignes; and truely I had not truſted my eares, if the
+<pb n="3" facs="tcp:158394:2"/>
+               <!-- PDF PAGE 55 -->ſame and much more had not beene confirmed by my eyes; for thoſe few Re<g ref="char:EOLhyphen"/>gements then with us, were a perfect modell of the whole Army; and moſt certaine I am, that all the Officers of no one<g ref="char:punc">▪</g> Company were all of the ſame opinion what Religion they fought for: Some loved the book of Common Prayer and Biſhops, others were zealous for extemporary prayers and Elders, another thought Biſhops ſo many Elders, and Elders ſo many Biſhops, and therefore they fought to ſet Jeſus Chriſt in his throne (meaning) indepen<g ref="char:EOLhyphen"/>dency: Some liked the Chaplaine of the Regement, another thought his Corporall preached better; ſome had ſo much of the ſpirit they wanted cou<g ref="char:EOLhyphen"/>rage, and when they ſhould fight, thought it better to pray, or elſe declared it was revealed unto them they ſhould be beaten, and to fulfill the prophecy, threw downe their Armes; and one would thinke, that every Company had beene raiſed out of the ſeverall Congregations of <hi>Amſterdam,</hi> who wanted not Scripture for every mutiny, who plunder and call it Gods providence who if they cannot prove any of quality to be a Papiſt, yet as he is a Gentleman he ſhall want grace; and that is title enough to poſſeſſe the eſtates of all that are more richer then themſelves: and in truth had it not beene for this per<g ref="char:EOLhyphen"/>ſwaſion, you might have made riots but not a warre; for under the promiſe of Malignants eſtates, are included, not only thoſe that directly take part with the King but all thoſe too that ſhall not concurre with you in all things; hence it is that thoſe were thought meritorious, who voted Biſhops out of the Houſe of Peeres, but are become Malignants, becauſe they will not put them out of the Church; hence ſome that contributed with a large hand to this warre, received markes of favour, but are become Malignants, becauſe they wil not give all that they are worth; hence thoſe that in tumults creid for juſtice were worthy of thanks, but are become Malignants, becauſe they will helpe to depoſe the King: I ſhall not need to tell what diſhonorable and indi<g ref="char:EOLhyphen"/>rect meanes have been uſed to theſe ends, what burthens have been laid upon weake conſciences of ſome men by Divines, what preferment have been promiſed to ſome, what threatnings have been uſed to others; the ſending of Horſes, money, plate, ſhall expiate for paſt ſinnes, or cover others which by their buſie emiſſaries they have<g ref="char:cmbAbbrStroke">̄</g> found out, and will otherwiſe diſcover<g ref="char:punc">▪</g> he that has power in his Country and will uſe it for you may oppreſſe his neighbour, who muſt not ſue him becauſe he is in their ſervice, and if he would be revenged it is no hard thing, to procure a warrant and the Serjeants man, and lay him up till he finde an accuſation, or produce one he never meanes to prove. I could inſtance in divers, who have been by theſe alure<g ref="char:EOLhyphen"/>ments, invited to this warre, and ſo to the ruine both of themſelves and fa<g ref="char:EOLhyphen"/>milies; nor can I forget that more obvious artifice, which has made the preſſe the fruitfull Mother of many Baſtards; when the taking three ſcouts in an Ale-houſe, has been made at <hi>London,</hi> a Caſtle and the defeat of a Regiment, and
+<pb n="4" facs="tcp:158394:3"/>
+               <!-- PDF PAGE 56 -->
+               <hi>Cler. Parl.</hi> has made the pamphlet ſell for a truth, when a defeat has beene voted a victory, and to muſe the people an Order has beene made, that God ſhould be thanked for it; and indeed the Officers at laſt found that to tell truth when they had the worſt; ſometimes endangered their caſheering, alwayes procured them an ill opinion; and when they ſaved the labour of doing the contrary, they were the better uſed and therefore of late have juſtly wracked betwixt this <hi>Scylla</hi> and <hi>Charibdis,</hi> while they rather complyed with their humour then obeyed Truth, ſo that Religion is but the reverent name for blood and ruine; and it is moſt evident, it was onely uſed as a diſguiſe, that we might with the more caſe devoure one another, which nature other<g ref="char:EOLhyphen"/>wiſe would forbid us to doe.</p>
+            <p>Next to this, nothing wrought more upon me, then that ſtrange miſtery, that fighting for the ſafety of the King, was ſhooting at him, as at <hi>Edgehill</hi> and elſe where, where I thank God I was not; for ſure the apprehenſion is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o horrid unto me, that had. I been in that action, the wounds of my conſci<g ref="char:EOLhyphen"/>ence could never have been healed; I am told the Lawes are very ſevere, not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot onely againſt thoſe that raiſe Armes againſt the Crown, and after violence <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the perſon of the King, but extend even to the intentions, words and thoughts; certaine I am Religion and Nature, ranke treaſon and rebellion among the fowleſt ſinnes, and followes them with the worſt of puniſhments, and doubts <hi>Ravailla</hi> might as well have excuſed his bloody fact, by ſaying the King was in his way, when he ſtabbed him; as thoſe that juſtifie theſe late actions, by ſaying His Majeſty was among their enemies, when he was on his owne ground, and amongſt his owne Servants: And who ever ſhall conſider what His Majeſty has done before this watre began, in reparation of theſe errors paſt, what calumnies and reproaches he hath ſuffered ſince (in<g ref="char:EOLhyphen"/>juries not to be born by private ſpirits) how beyond hope and expectation His Army riſe from being deſpiſed to be juſtly feared; and laſtly, what royall promiſes, ſacred proteſtations he has ſo often and ſo ſolemnly made, cannot but renounce Charity and Honour, or elſe he muſt believe and truſt His Ma<g ref="char:EOLhyphen"/>jeſty, reſſent His ſufferings, and acknowledge the miraculous hand of God in His preſervation.</p>
+            <p>But I muſt confeſſe the reaſon of complaining againſt you for uſing the King no better, ſeemes to grow leſſe, whileſt the Subject is in a much worſe con<g ref="char:EOLhyphen"/>dition. Lawes we have indeed, but they are ſo little exerciſed, that ſhortly they will be buried in the places of thoſe late riſen Fundamentalls, which no man yet could ere diſcover where they lay; when for the liberty of the Subject, there is ſuch good proviſion made that whereas one Gaole was enough for a whole County, now there is more then one almoſt in every Pariſh; when the ſuperſcription of a letter (and may be that fained too) the information of a malitious neighbour: a feare, a jealouſie, deprives many of their liberty, ſome of
+<pb n="5" facs="tcp:158394:3"/>
+               <!-- PDF PAGE 56 -->their lives, moſt of their healths and fortunes; when the petitioning for Laws eſtabliſhed, and for peace (without which we can enjoy neither Lawes nor Truth) are become (with the crime of Loyalty) the onely things puniſhed; and with ſuch a ſeverity that as no condition ſo ſpares, no age is ſpared; the youth entring into the world and having undergone the labour of a prenti<g ref="char:EOLhyphen"/>ſhip, inſtead of being made free of the City, are to ſerve againe in a priſon; and thoſe reverend Aldermen who have gone through the ſeverall Offices of <hi>London</hi> with honour, ſtooping under the weight of many yeers, and the in<g ref="char:EOLhyphen"/>firmities thereof, have been drawne from their hoſpitable houſes, (and ſome from their beds, where extreame age had kept them many yeers before) to lothſome priſons, from thence at midnight in cold and ſtormy we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, in a little boat to <hi>Graveſend,</hi> and from thence to the unwholſome ayre of ſome port Towne, that they might not live long, to bewayle that baniſhment from their deare wives and children.</p>
+            <p>And herein I acknowledge the greateſt juſtice, for Propriety has no prive<g ref="char:EOLhyphen"/>ledge above Liberty; for being lately at <hi>London</hi> I found Priſons and plunde<g ref="char:EOLhyphen"/>ring went hand in hand and it is worth the obſerving how theſe disburſments like haſty weeds, grew on a ſudden to ſo great a height; as firſt a gentle be<g ref="char:EOLhyphen"/>nevolence, then ſubſcription, then ſending in plate, next taxations by an order, at laſt the twentieth part by an Ordinance, beſides thoſe ſmaller diverſions of under writing for <hi>Ireland,</hi> and ſpending it in this warre, of gathering for the diſtreſſed Proteſtants of that Nation, and beſtowing that charity upon the Miniſters of our own, whoſe ſeditious Sermons, had brought a juſt pover<g ref="char:EOLhyphen"/>ty upon them; of ſequeſtring eſtates and benefices, of taking Portions and keeping the Orphans upon publique Faith, of ſeazing the Stocks of Churches, till by the ſame publique Faith, they build or repaire the ſame; and doubt<g ref="char:EOLhyphen"/>leſſe were not my thoughts more for the generall, then my private intereſt, I might eaſily and by authority grow rich with the ſpoyles of that propriety you ſeeme to defend, and as others, be gallant with the overplus taken for the twentieth part; vvho likewiſe by an Order take the Coach Horſes of per<g ref="char:EOLhyphen"/>ſons of quality, and uſe them afterwards in their viſits and to Tavernes for the ſervice of the Common-wealth.</p>
+            <p>I had not made inſtance in ſo many particulars, but to juſtifie my ſelfe thereby to all the vvorld for vvhat I have now done, vvhich upon theſe con<g ref="char:EOLhyphen"/>ſiderations vvill be rather approved then condemned, by any that have not vvholly given up their reaſon unto faction; for doubtleſſe diſhonour is fixt upon levity, ambition, cowardize, upon the perſiſting in that courſe vvhich by conſcience is declared unjuſt and irreligious. The breach of Ar<g ref="char:EOLhyphen"/>ticles renders void all Covenants, much more vvhen that vvhich is contra<g ref="char:EOLhyphen"/>cted for, is not onely altered but ſubverted. They vvere but pretences not realities I have hitherto ſerved under, and Juſtice and Honour com<g ref="char:EOLhyphen"/>mands
+<pb n="6" facs="tcp:158394:4"/>
+               <!-- PDF PAGE 57 -->me to leave them. Some Souldiers take Honour in ſo large a ſence, that if they tooke pay under the Turke they would not deſert him: The compariſon is not amiſſe; but ſure where there is ſuch an indifferency, as to ſerve any for pay, Religion is no part of their Honour; but if they be of the Mahometan perſwaſion, I ſhall not blame them to be true to that ſervice, no more then I doe thoſe here, if their conſciences tell them de<g ref="char:EOLhyphen"/>cency and order is Antichriſtian, and Authority and Magiſtracy Heatheniſh: for certaine I am, there is nothing more baſe and unworthy a Gentleman and a Chriſtian then to forſake the dictates of his owne reaſon and conſci<g ref="char:EOLhyphen"/>ence to perſiſt in an erroneous way, becauſe he has already entred into it: If this falſe opinion of Honour ſhould be received as Orthodox, it will be in the power of every ſubtile Sophiſter and cheating Mountabanke, to ingage men for ever in ignoble actions, becauſe they brought them ſince to an opinion that conduced thereunto. And laſtly, whereas the end of war is peace, what hope can there be of a reconciliation, or that thoſe that have got the Regall and ſupreme power into their hands, ſhould ever leave that which they have uſerped, to reſume that which they were borne to, or that the Officers of that Army ſhould conſent to a peace as long as they can have ſupplies of mo<g ref="char:EOLhyphen"/>ney; ſince that then a great part from being Colonels and Captaines, muſt againe betake themſelves to their aprons and ſhops, and inſtead of receiving pay, muſt bethink themſelves how to ſatisfie their beguiled Creditors: for my part, I am borne to no inconſiderable fortune, and as I abhorre my name ſhould be branded with treaſon, or that forfeited by a confiſcation, ſo am I as loth we ſhould ever be reduced to have a parity in either (which is aymed at) or have both buried in the ruines of this miſerable Nation.</p>
+            <p>I doe proteſt had none of theſe promiſes wrought upon me, yet the very ſight of His Najeſties Army, the diſcipline, unanimity, and exact obedience, thereof, the excellent converſation of ſo many gallant, and noble perſonages who know no other emulation then that of honour, who dare doe any thing but what is baſe, and (on my ſoule) daily expreſſe hearty deſires of peace (not out of any defect in the Army) but to prevent the ruine and procure the hap<g ref="char:EOLhyphen"/>pineſſe of their Country: to conclude, what <hi>Engliſh</hi> Gentlemen that ever heard of the ancient honour of this Kingdome, or would preſerve that of himſelfe and family, can tamely ſee our courage (terrible ſometime to for<g ref="char:EOLhyphen"/>raigne Nations) baſely degenerate into a rebellion againſt our naturall Prince, to whom malice it ſelfe can object no crime, and therefore caſts upon him the faults of others, and ſince it cannot touch His Perſon, quarrels at His Crowne: you ſee Him powerfull at the head of His Army, and may ſee him glorious in his throne of peace, you ought not to doubt his juſtice, (and if you wlir) you may (as I have done) obtaine his mercy.</p>
+            <p>
+               <pb n="7" facs="tcp:158394:4"/>
+               <!-- PDF PAGE 57 -->
+Sir, I have freely told you my ſenſe, if it have any proportion to yours, and ſo incline you to that effect it hath wrought in me, I ſhall take it (next to the condition I am in) as the greateſt happineſſe, and if I be ſo fortunate, ſince in theſe dangerous times you cannot ſafely convey it by letters, let me know it, by your publiſhing this, whereby alſo you may happily benefit others, and certainely oblige.</p>
+            <closer>
+               <signed>Your humble ſervant,
+R. K.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
